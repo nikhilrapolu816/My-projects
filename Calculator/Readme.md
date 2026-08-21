@@ -10,7 +10,7 @@
 - Power Finding
 - Calculation History
   <br>
-## Technologies Used
+# Technologies Used
 - Python 3 (for the program)
 - VS Code (for development)
 - Git & GitHub (for version control)
