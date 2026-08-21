@@ -20,3 +20,18 @@
 2. Clone the repository using the VS Code terminal.
 3. Open the project in VS Code.
 4. Run the calculator program.
+<br>
+# What I Learned
+
+- Variables
+- Operators
+- Conditional statements
+- While loops
+- Functions
+- Error handling
+- Git and GitHub
+<br>
+# Future Improvements
+
+- Add a GUI
+- Add more complex mathematical operations
