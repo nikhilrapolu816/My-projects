@@ -14,3 +14,8 @@
 - Python 3 (for the program)
 - VS Code (for development)
 - Git & GitHub (for version control)
+# How to Run
+1. Install Python 3.
+2. Clone the repository using the VS Code terminal.
+3. Open the project in VS Code.
+4. Run the calculator program.
