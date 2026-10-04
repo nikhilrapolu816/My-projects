@@ -1,1 +1,18 @@
+print("-----------Welcome To Guessing Game-----------")
+print("----------------------------------------------")
+a=22
+b=0
+i=0
 
+while a>0 and b!=a:
+    b=int(input("guess the num : "))
+    if a>b:
+        print("  --->:Too Low:<---") 
+    elif a<b:
+        print("  ---<:Too High:>---")
+    i+=1
+
+if b==a:
+        print("$$-----YOU WON-----$$")
+print("And Your Attempts are : ",i)
+print("------------------------------")
